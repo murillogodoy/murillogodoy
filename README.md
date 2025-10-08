@@ -1,5 +1,5 @@
 <h1 align="left">Murillo Godoy</h1>
- **`Full Stack Developer from Brazil`**
+ <code style="font-weight: bold;">Full Stack Developer from Brazil</code>
 
 - 🌱 I’m currently learning: **React and NextJS**
 
