@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **murillexy@gmail.com**
 
-- ⚡ Fun fact: **Along with programming, I'm a judo practitioner and Japanese learner.**
+- ⚡ Fun fact: **Along with programming, I'm a judo practitioner and japanese learner.**
 <hr>
 <h3 align="left">👾 Languages and Tools</h3>
 <p align="left" >    
