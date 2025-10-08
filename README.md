@@ -1,5 +1,5 @@
-<h1 align="center">Hello ✨, I'm Murillo Godoy</h1>
-<h3 align="center">A Full-stack developer from Brazil.</h3>
+<h1 align="left">Murillo Godoy</h1>
+ **`Full Stack Developer from Brazil`**
 
 - 🌱 I’m currently learning: **React and NextJS**
 
