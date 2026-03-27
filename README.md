@@ -146,13 +146,4 @@
 <br/>
 <br/>
 
-### 🤖 Stats
 
-<p>
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillogodoy&theme=algolia&layout=compact&custom_title=Languages&langs_count=9" 
-  />
-</p>
