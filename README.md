@@ -2,7 +2,7 @@
 
 **`Full Stack Developer from Brazil`**
 
-- 🌱 I’m currently learning: **React and NextJS**
+- 🌱 I’m currently learning: **Data Structures & Algorithms and AWS**
 
 - 👨‍💻 All of my projects are available at: [Portfolio](https://murillogodoy.github.io/capstone-project-2/)
 
