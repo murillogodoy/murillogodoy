@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at: [Portfolio](https://murillogodoy.github.io/capstone-project-2/)
 
-- ⚡ Fun fact: **Along with programming, I'm a martial arts enthusiast and japanese learner.**
+- ⚡ Fun fact: **Along with programming, I'm a martial arts enthusiast.**
 
 ---
 
